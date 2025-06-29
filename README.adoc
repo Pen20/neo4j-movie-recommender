@@ -17,9 +17,7 @@ someCode()
 // end::something[]
 ----
 
+![UI Preview](screenshot_UI.png)
 
-We use link:https://asciidoc-py.github.io/index.html[Asciidoc^] to author our courses.
-Using these tags means that we can use a macro to include portions of code directly into the course itself.
 
-From the point of view of the course, you can go ahead and ignore them.
 
