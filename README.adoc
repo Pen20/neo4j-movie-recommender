@@ -17,7 +17,6 @@ someCode()
 // end::something[]
 ----
 
-![Educational Feedback Analysis Assistant Screenshot](screenshot_UI.png)
 
 
 
